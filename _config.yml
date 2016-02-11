@@ -1,0 +1,28 @@
+name: Luke Kuepfer
+favicon: null
+layout_spectrum: 0.22178992466069758
+typography_spectrum: 0.8868088836316019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.46768072340637445
+  lightness: 0.9195216367952526
+  saturation: 0.33456794754602015
+  rhythmicContrast: 0.7481723472010344
+purpose: []
